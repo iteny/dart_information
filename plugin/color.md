@@ -29,9 +29,10 @@ With Flutter:
  $ flutter pub add flutter_color_plugin
  ```
 This will add a line like this to your package's pubspec.yaml (and run an implicit flutter pub get):
-
+```
 dependencies:
   flutter_color_plugin: ^1.1.0
+  ```
 Alternatively, your editor might support or flutter pub get. Check the docs for your editor to learn more.
 
 Import it
