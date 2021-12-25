@@ -1,3 +1,6 @@
+```
+flutter_color_plugin
+```
 ### 使用方法
 ```
 To get a color 
